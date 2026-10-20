@@ -63,11 +63,6 @@ A collection of projects completed during my web development internship.
 - To-do web application
 - Login and registration system
 
-### 5. Tribute to Onesimos Nesib, Aster Ganno & Gudina Tumsa
-A responsive website celebrating influential figures and their contributions to Oromo language, culture, faith, and social justice.
-
-🔗 **Repository:** [View Project](https://github.com/ayulg/Tribute-to-Onesimos-Nesib-Aster-Ganno-Gudina-Tumsa)
-
 ---
 
 ## 🎯 Currently Exploring
