@@ -85,14 +85,6 @@ A collection of projects completed during my web development internship.
 
 ---
 
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayulg&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayulg&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
 ## 🤝 Connect With Me
 
 🌐 **Portfolio:** [ayulg1.vercel.app](https://ayulg1.vercel.app/)
