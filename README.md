@@ -42,22 +42,17 @@ My personal portfolio showcasing my skills, projects, and development work.
 
 🔗 **Live Website:** [ayulg1.vercel.app](https://ayulg1.vercel.app/)
 
-### 2. Responsive Website
-A responsive website project focused on user interface design and cross-device compatibility.
-
-🔗 **Live Website:** [mihret-assefa.vercel.app](https://mihret-assefa.vercel.app/)
-
-### 3. Milto — AI Career Recommendation System
+### 2. Milto — AI Career Recommendation System
 An evolving project exploring personality-informed career recommendations, explainable recommendations, skill gaps, and personal development planning.
 
 **Technologies:** Python, Flask, SQLite, AI, and web technologies.
 
-### 4. Library Book Issuing & Return System
+### 3. Library Book Issuing & Return System
 A Flutter application project designed to manage library inventory, student records, book issuing, returns, and reports.
 
 **Technologies:** Flutter, Dart, Firebase Authentication, Cloud Firestore, and PDF generation.
 
-### 5. Oasis Infobyte Web Development Projects
+### 4. Oasis Infobyte Web Development Projects
 A collection of projects completed during my web development internship.
 
 🔗 **Repository:** [OIBSIP](https://github.com/ayulg/OIBSIP)
@@ -68,7 +63,7 @@ A collection of projects completed during my web development internship.
 - To-do web application
 - Login and registration system
 
-### 6. Tribute to Onesimos Nesib, Aster Ganno & Gudina Tumsa
+### 5. Tribute to Onesimos Nesib, Aster Ganno & Gudina Tumsa
 A responsive website celebrating influential figures and their contributions to Oromo language, culture, faith, and social justice.
 
 🔗 **Repository:** [View Project](https://github.com/ayulg/Tribute-to-Onesimos-Nesib-Aster-Ganno-Gudina-Tumsa)
