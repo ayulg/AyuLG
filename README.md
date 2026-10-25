@@ -5,7 +5,6 @@
 
 I'm a Software Engineering student at **Wolkite University**, studying since 2024. I enjoy building responsive websites, mobile applications, and practical software projects while expanding my knowledge of Artificial Intelligence and data technologies.
 
-I focus on creating clean, maintainable code and user-friendly experiences that work across devices.
 
 ---
 
@@ -75,24 +74,4 @@ A collection of projects completed during my web development internship.
 
 ---
 
-## 🏅 Certifications & Learning
-
-- **Foundations of Artificial Intelligence** — Online training program.
-- **AWS AI Practitioner Challenge** — Udacity.
-- **Programming Fundamentals** — Udacity.
-- **Introduction to Python Programming (AD141)** — Red Hat Training.
-- **Responsive Web Design** — freeCodeCamp.
-
----
-
-## 🤝 Connect With Me
-
-🌐 **Portfolio:** [ayulg1.vercel.app](https://ayulg1.vercel.app/)
-
-💻 **GitHub:** [github.com/ayulg](https://github.com/ayulg)
-
-I'm interested in internships, collaborative projects, and opportunities to grow as a software developer.
-
----
-
-*Learning continuously. Building thoughtfully. Growing every day. 🚀*
+🚀*
