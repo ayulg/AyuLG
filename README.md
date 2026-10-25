@@ -3,7 +3,7 @@
 
 ### Software Engineering Student | Frontend & Full-Stack Developer | Flutter & AI Enthusiast
 
-I'm a Software Engineering student at **Wolkite University**, studying since 2024. I enjoy building responsive websites, mobile applications, and practical software projects while expanding my knowledge of Artificial Intelligence and data technologies.
+I'm a Software Engineering student at **Wolkite University**. I build responsive websites, mobile applications, and practical software projects while expanding my knowledge of Artificial Intelligence and data technologies.
 
 
 ---
